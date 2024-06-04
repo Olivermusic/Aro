@@ -25,7 +25,7 @@ def start_panel(_):
                 text="‹ قناة المطور ›", url=f"https://t.me/AAAWY"
             ),
             InlineKeyboardButton(
-                text="‹ المطور الثاني ›", url=f"https://t.me/Tc8cY"
+                text="‹ قناة البوت ›", url=f"https://t.me/Tc8cY"
             ),
         ],
     ]
@@ -47,15 +47,15 @@ def private_panel(_, OWNER_ID: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="‹ المطور ›", url=f"https://t.me/ouesc"
+                text="‹ المطور ›", url=f"https://t.me/LLL7P"
             ),
             InlineKeyboardButton(
-                text="‹ تنصيب بوت ›", url=f"https://t.me/ouesc"
-            ),
+                text="‹ تنصيب بوت ›", url=f"https://t.me/LLL7P"
+            )
         ],
         [
             InlineKeyboardButton(text=_["S_B_7"], user_id=OWNER_ID),
-            InlineKeyboardButton(text=_["S_B_6"], url=f"https://t.me/ouesc"),
+            InlineKeyboardButton(text=_["S_B_6"], url=f"https://t.me/LLL7P"),
         ] if OWNER_ID else [],
         [InlineKeyboardButton(text=_["ST_B_6"], callback_data="LG")],
     ]
