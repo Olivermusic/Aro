@@ -34,37 +34,37 @@
       },
       "OWNER_ID": {
         "description": "~ اكتب ايدي المالك او اتركها كما هي .",
-        "value": "798912491",
+        "value": "5072874938",
         "required": true
         
       },
       "YOUTUBE_IMG_URL": {
         "description": "~  ضع رابط صورة التشغيل .",
-        "value": "https://graph.org/file/8882cbd7cc786826d9ecb.jpg",
+        "value": "https://graph.org/file/5b6717f2e3a3a9c338686.jpg",
         "required": true
         
       },
       "SUPPORT_CHAT": {
         "description": "~  ضع قناة الدعم .",
-        "value": "https://t.me/BB_1R",
+        "value": "https://t.me/AAAWY",
         "required": true
         
       },
       "Muntazer": {
         "description": "~  ضع قناة الاشتراك الاجباري ( لاتنسى رفع البوت مشرف في القناة ) .",
-        "value": "BB_1R",
+        "value": "AAAWY",
         "required": true
         
       },
       "BOT_IMAGE": {
         "description": "~  ضع صورة كليشة الاشتراك الاجباري ، يمكنك تجاهل هذا الحقل .",
-        "value": "https://te.legra.ph/file/4807752a011965b771900.jpg",
+        "value": "https://graph.org/file/5b6717f2e3a3a9c338686.jpg",
         "required": false
         
       },
       "START_IMG_URL": {
         "description": "~  ضع صورة كليشة  الستارت .",
-        "value": "https://te.legra.ph/file/303a0e1d707b04a28a5ad.jpg",
+        "value": "https://graph.org/file/5b6717f2e3a3a9c338686.jpg",
         "required": false
         
       },
@@ -92,13 +92,13 @@
      },
       "LOGGER_ID": {
         "description": "~ اكتب ايدي القناة حتى يتم وصول احداث البوت اليك .",
-        "value": "-100",
+        "value": "-1001530753519",
         "required": true
         
       },
       "UPSTREAM_REPO": {
         "description": "~  لاتغيرها أبدا .",
-        "value": "https://github.com/STKR2/namrk",
+        "value": "https://github.com/olivermusic/Aro",
         "required": true
       }
     },
