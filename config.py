@@ -15,7 +15,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", "")
 
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "bot")
 
-Muntazer = getenv("muntazer", "ouesz")
+Muntazer = getenv("muntazer", "AAAWY")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
@@ -27,7 +27,7 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
-OWNER_ID = int(getenv("OWNER_ID", "1854384004"))
+OWNER_ID = int(getenv("OWNER_ID", "5072874938"))
 
 BOT_USERNAME = getenv("BOT_USERNAME" , "")
 
@@ -39,7 +39,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/STKR2/namrk",
+    "https://github.com/olivermusic/Aro",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
