@@ -22,10 +22,10 @@ def start_panel(_):
         ],
         [
             InlineKeyboardButton(
-                text="‹ المطور ›", url=f"https://t.me/ouesc"
+                text="‹ قناة المطور ›", url=f"https://t.me/AAAWY"
             ),
             InlineKeyboardButton(
-                text="‹ تنصيب بوت ›", url=f"https://t.me/ouesc"
+                text="‹ المطور الثاني ›", url=f"https://t.me/Tc8cY"
             ),
         ],
     ]
